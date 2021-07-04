@@ -1,6 +1,6 @@
 # Atliq-Hardware-Sales-Insights-Using-Power-BI
 This project is to create a dashboard using power BI for sales insights of Atliq hardware
-
+The final output of the project is uploaded in an image format check it out for better context
 # The report helps to see:
 
 1- Revenue per year
